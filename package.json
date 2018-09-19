@@ -1,0 +1,29 @@
+{
+  "name": "jedi.archive",
+  "author": "clcrowson@gmail.com",
+  "version": "0.1.0",
+  "description": "API sandbox project using https://swapi.co/",
+  "private": true,
+  "license": "ISC",
+  "main": "index.js",
+  "homepage": "https://github.com/clcrowson/jedi.archive#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clcrowson/jedi.archive.git"
+  },
+  "bugs": {
+    "url": "https://github.com/clcrowson/jedi.archive/issues"
+  },
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-scripts": "^1.1.5",
+    "tachyons": "^4.11.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
